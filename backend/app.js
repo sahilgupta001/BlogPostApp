@@ -6,7 +6,7 @@ const mongoose = require('mongoose');
 const postRoutes = require("./routes/posts");
 const userRoutes = require("./routes/user");
 
-mongoose.connect("mongodb+srv://admin:" + process.env.MONGO_ATLAS_PW + "@cluster0-wnd4p.mongodb.net/node-angular")
+mongoose.connect("mongodb+srv://" + process.env.MONGO_ATLAS_USER + ":" + process.env.MONGO_ATLAS_PW + "@cluster0-wnd4p.mongodb.net/" + process.env.MONGO_ATLAS_DB_NAME)
   .then(() => {
     console.log('Connected to the database');
   })
