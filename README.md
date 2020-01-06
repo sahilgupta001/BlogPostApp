@@ -8,9 +8,10 @@ With the ever increasing demand for the web development stack that binds all the
 
 ## Tech/Framework used
 
-> This project was generated with:-
- [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
+This project was generated with:-
+- [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
 
+- []
 
 The app introduces one to the basic packages that are required to develop using the node framework.
 
