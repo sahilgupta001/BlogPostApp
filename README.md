@@ -11,9 +11,19 @@ With the ever increasing demand for the web development stack that binds all the
 This project was generated with:-
 - [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
 
-- []
+- [Node.js](https://nodejs.org/docs/latest-v10.x/api/) version 10.16.3.
 
-The app introduces one to the basic packages that are required to develop using the node framework.
+- [MongoDB](https://docs.mongodb.com/manual/) version 4.2.1 .
+
+## Tech/Framework used
+
+The app serves a brief introduction to the basic node packages enlisted below.
+- express
+- mongoose
+- mongoose-unique-validator
+- multer
+- rxjs
+- bcrypt
 
 ## Development server
 
