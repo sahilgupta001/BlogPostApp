@@ -1,6 +1,18 @@
-# MeanCourse
+# BlogPostApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
+The app serves the basic blogging website features. The app allows, geographically dispersed users to share their experiences.
+
+## Motivation
+
+With the ever increasing demand for the web development stack that binds all the features required to build a robust Web Project, the app serves as an introduction to the basic and the cool features of the MEAN Stack. 
+
+## Tech/Framework used
+
+> This project was generated with:-
+ [Angular CLI](https://github.com/angular/angular-cli) version 8.3.21.
+
+
+The app introduces one to the basic packages that are required to develop using the node framework.
 
 ## Development server
 
